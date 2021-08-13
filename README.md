@@ -7,4 +7,8 @@ Sorce description
 full description
 git 
 
-ok
+## Local development
+1. Open index.html in your browser
+2. Closed groups
+xyz
+what have i done again i no no
